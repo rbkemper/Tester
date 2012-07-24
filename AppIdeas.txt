@@ -1,0 +1,11 @@
+App Ideas
+
+1. An interactive "Choose your own broventure". A story that incorporates user input through buttons that continue the story to its end. This could include music to set the mood, puzzles to solve problems, shaking the device for some purpose, or other input. Essentially this would be a text based adventure but with the tools of a smartphone.
+
+2. A photo puzzle maker. This game would take a photo on your phone, divide it into chunks, remove one piece, and then shuffle it. By moving the pieces, the user would try to move the puzzle back into a photo. Users could either have a photo chosen at random, or they could choose their own photo. 
+
+3. A Dance Break app. This app would take control of the device's flash capabilities (assuming it has any) as well as its media player. Upon the launch of the app, the user would be presented with a red button, that would launch a popular dance song (avicii, tiesto, armin van buuren). The screen would strobe and the flash would strobe. The screen could also have different sorts of displays such as popular internet themes (nyan cat, peanut butter jelly man, rebecca black in a backseat).
+
+4. A Facebook information aggregator. Through social media API calls, we can gain access to someone's Facebook and provide them with information not readily accessible through simple Facebook browsing. Information such as "Ratio of female vs male friends", or "Friends who like your status the most". Even an infographic of a popularity measurement derived from th number of wall posts per day vs number of friends.
+
+5. An executive toy simulator. Many people wish they had those clever desk toys such as a newtons cradle or a zen garden. This app would amalgamate them into a single app. We could have a newtons cradle, a simulated zen garden, schroedingers cat decision maker, and even an easy button. All the procrastination of a desk full of toys, with none of the clutter.
